@@ -1,0 +1,4 @@
+设置快捷键
+cd /User/appchina
+vi .zshrc
+alias jumper="ssh root@18.221.44.192"
